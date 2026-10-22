@@ -1,0 +1,53 @@
+=====================================================================
+HARF_ALEF_KIDS_3D — VIDEO 01 · SHOT 01 — ALEF_FATHA_INTRO
+الحرف: أَ (الألف بالفتحة)   |   المدة: 10 ثوانٍ (0:00-0:10 داخل مقطع مدته 30 ثانية)
+=====================================================================
+
+FRAMES
+------
+Use the single provided reference image as the FIRST FRAME of this 10-second shot: VID01_SC01_ALEF_FATHA_INTRO.png
+Animate it into a 10-second 3D animated children's cartoon clip, 30 FPS, vertical 9:16 portrait, 1080x1920.
+Visual style (locked for the whole series): 3D animated children's cartoon, Pixar-style, soft rounded shapes, big expressive stylized eyes, smooth clean surfaces, warm friendly design, soft global illumination, cheerful bright saturated children's color palette, no photorealism.
+Scene environment (locked): a bright sunny green garden meadow with colorful flowers, soft white clouds in a blue sky and a warm wooden fence in the soft-focus background
+Subjects in frame (locked): On the left stands ZAID (the exact adorable 4-year-old curly dark-brown-haired boy in a yellow t-shirt with sky-blue sleeve trim, blue denim bib overalls and red-and-white sneakers) smiling joyfully straight toward the camera while happily pointing with his right hand toward the center; right beside him sits SIMSIM (the exact cute chubby orange tabby kitten with huge green eyes and a blue collar with a tiny golden bell) smiling brightly.
+Arabic 3D letter in scene (locked, 100% accurate, never alter it): Standing prominently in center-right on the grass is ONE giant glossy red-and-gold 3D toy Arabic letter block for «أَ»: a smooth tall red vertical stem, a small red Arabic hamza (ء) sitting ON TOP of the stem, and a short yellow diagonal fatha slash floating ABOVE the hamza.
+
+CONTINUITY
+----------
+Series heroes, identical in every shot of every episode: ZAID (4-year-old curly dark-brown-haired boy, yellow t-shirt with sky-blue sleeve trim, blue denim bib overalls, red-and-white sneakers) and SIMSIM (chubby orange tabby kitten, huge green eyes, blue collar with tiny golden bell).
+This is the opening shot of the episode: it establishes Zaid, Simsim and the giant 3D letter in this location.
+Keep the exact same character designs, outfits, proportions, colors, the exact same environment, the exact same lighting direction and color palette as the reference frame for the entire shot.
+The giant 3D Arabic letter sculpture stays in the exact same position, same scale and same spelling from the first frame to the last frame of the shot.
+Absolutely no text, no words, no subtitles, no logos and no watermark are ever rendered inside the video frame.
+
+ACTION AND TIMING
+-----------------
+0.0-3.0s: Zaid waves then points joyfully at the giant red 3D letter; Simsim lifts one paw. 3.0-7.0s: Zaid opens his mouth wide and clearly teaches the sound «أَ», tapping his open hand; the giant 3D letter bounces gently and sparkles. 7.0-10.0s: Zaid and Simsim look straight at the camera smiling, inviting the children to repeat «أَ» together.
+All motion is soft, bouncy, child-friendly and clearly readable; no fast erratic movement.
+
+DIALOGUE
+--------
+ZAID (warm, cheerful, slow, fully vocalized simple Standard Arabic): «مَرْحَباً يَا أَصْدِقَاء! هٰذَا حَرْفُ الْأَلِفِ بِالْفَتْحَةِ... أَ! قُولُوا مَعِي: أَ — أَ!»
+Speaking character: ZAID only. Simsim, the animals and the objects never speak (mouths stay closed).
+Optional: add a tiny cute "meow" from Simsim and a friendly children's group repeat of the letter sound «أَ» at the very end.
+
+CAMERA
+------
+Camera is strictly locked and static for the entire shot — NO camera movement whatsoever: no pan, no tilt, no zoom, no dolly, no push-in, no orbit, no handheld shake, no parallax drift.
+Single fixed tripod wide-to-medium framing: full bodies of Zaid and Simsim visible on the left, the giant 3D Arabic letter fully visible in center-right, generous headroom, vertical 9:16 portrait composition, 1080x1920, 30 FPS.
+Warm direct child-friendly eye contact with the viewer is welcome and encouraged in this educational cartoon.
+
+SOUND
+-----
+Cheerful light children's cartoon background music (soft marimba and bells, gentle and happy, never sad). Soft magical sparkle chime when the giant 3D letter glows. Zaid's friendly child voice only; no other speaking character.
+Clear, warm, close, child-friendly voice in fully vocalized simple Standard Arabic (عربية فصحى مبسطة مشكولة), perfectly intelligible for toddlers, mixed slightly above the music.
+No scary, aggressive, sad or loud sounds. No adult voices. No background chatter.
+
+END FRAME
+---------
+Zaid and Simsim side by side smiling straight into the camera, right hand still pointing at the giant glowing red 3D letter «أَ» in center-right, sunny meadow and wooden fence unchanged behind them.
+Frozen final frame must stay perfectly clean and readable for a 1-tap loop into the next shot.
+
+NEGATIVE
+--------
+photorealism, realistic human skin, live action, 2D flat drawing, anime, horror, scary faces, dark or moody lighting, camera movement of any kind, camera pan, camera zoom, camera shake, handheld, lens flare, extreme close-up, cropped head, character looking away, extra or garbled text, additional random letters or words, wrong Arabic spelling, misplaced hamza, misplaced vowel mark, watermark, logo, subtitles, captions, UI overlay, brand name, extra fingers, deformed hands, deformed paws, extra limbs, blurry, low resolution, noise, film grain, violence

@@ -1,0 +1,53 @@
+=====================================================================
+HARF_ALEF_KIDS_3D — VIDEO 01 · SHOT 03 — ASAD
+الحرف: أَ — أَسَدٌ   |   المدة: 10 ثوانٍ (0:00-0:10 داخل مقطع مدته 30 ثانية)
+=====================================================================
+
+FRAMES
+------
+Use the single provided reference image as the FIRST FRAME of this 10-second shot: VID01_SC03_ASAD.png
+Animate it into a 10-second 3D animated children's cartoon clip, 30 FPS, vertical 9:16 portrait, 1080x1920.
+Visual style (locked for the whole series): 3D animated children's cartoon, Pixar-style, soft rounded shapes, big expressive stylized eyes, smooth clean surfaces, warm friendly design, soft global illumination, cheerful bright saturated children's color palette, no photorealism.
+Scene environment (locked): the exact same bright sunny green garden meadow, wooden fence and blue sky as the previous shot
+Subjects in frame (locked): Everything stays identical: Zaid in yellow t-shirt and denim overalls on the left, Simsim the orange tabby kitten beside him, the fluffy white bunny rabbit, and the giant glossy red-and-gold 3D letter block «أَ» in center-right. NEW: a friendly chubby 3D baby lion cub with a soft fluffy golden mane sits beside the bunny.
+Arabic 3D letter in scene (locked, 100% accurate, never alter it): The giant red-and-gold 3D letter «أَ» stays exactly in place, identical: red vertical stem, red hamza on top, yellow diagonal fatha slash above it.
+
+CONTINUITY
+----------
+Series heroes, identical in every shot of every episode: ZAID (4-year-old curly dark-brown-haired boy, yellow t-shirt with sky-blue sleeve trim, blue denim bib overalls, red-and-white sneakers) and SIMSIM (chubby orange tabby kitten, huge green eyes, blue collar with tiny golden bell).
+This is the final celebratory shot of the episode: it keeps everything from shot 01 and shot 02 and adds the last friendly example character.
+Keep the exact same character designs, outfits, proportions, colors, the exact same environment, the exact same lighting direction and color palette as the reference frame for the entire shot.
+The giant 3D Arabic letter sculpture stays in the exact same position, same scale and same spelling from the first frame to the last frame of the shot.
+Absolutely no text, no words, no subtitles, no logos and no watermark are ever rendered inside the video frame.
+
+ACTION AND TIMING
+-----------------
+0.0-3.0s: the friendly baby lion cub waves one paw cutely at the camera next to the white bunny. 3.0-7.0s: the cub gives one tiny happy roar with a wide smile; Zaid raises both arms cheering and repeats the sound «أَ»; Simsim smiles wide. 7.0-10.0s: Zaid points at the cub, then at the bunny, then at the giant 3D letter and celebrates with the children.
+All motion is soft, bouncy, child-friendly and clearly readable; no fast erratic movement.
+
+DIALOGUE
+--------
+ZAID (proud, joyful, fully vocalized simple Standard Arabic): «وَأَ... أَسَدٌ! أَ — أَرْنَبٌ، أَ — أَسَدٌ! أَحْسَنْتُمْ يَا أَبْطَال!»
+Speaking character: ZAID only. Simsim, the animals and the objects never speak (mouths stay closed).
+Optional: add a tiny cute "meow" from Simsim and a friendly children's group repeat of the letter sound «أَ» at the very end.
+
+CAMERA
+------
+Camera is strictly locked and static for the entire shot — NO camera movement whatsoever: no pan, no tilt, no zoom, no dolly, no push-in, no orbit, no handheld shake, no parallax drift.
+Single fixed tripod wide-to-medium framing: full bodies of Zaid and Simsim visible on the left, the giant 3D Arabic letter fully visible in center-right, generous headroom, vertical 9:16 portrait composition, 1080x1920, 30 FPS.
+Warm direct child-friendly eye contact with the viewer is welcome and encouraged in this educational cartoon.
+
+SOUND
+-----
+Cheerful light children's cartoon background music continues. One tiny cute cartoon lion roar, happy children's applause and giggles, soft triumphant sparkle chord from the glowing 3D letter, gentle breeze in the grass.
+Clear, warm, close, child-friendly voice in fully vocalized simple Standard Arabic (عربية فصحى مبسطة مشكولة), perfectly intelligible for toddlers, mixed slightly above the music.
+No scary, aggressive, sad or loud sounds. No adult voices. No background chatter.
+
+END FRAME
+---------
+Zaid with both arms raised cheering, Simsim smiling wide, the white bunny and the friendly baby lion cub sitting together beside the glowing red 3D letter «أَ», sunny meadow unchanged.
+Frozen final frame must stay perfectly clean and readable for a 1-tap loop into the next shot.
+
+NEGATIVE
+--------
+photorealism, realistic human skin, live action, 2D flat drawing, anime, horror, scary faces, dark or moody lighting, camera movement of any kind, camera pan, camera zoom, camera shake, handheld, lens flare, extreme close-up, cropped head, character looking away, extra or garbled text, additional random letters or words, wrong Arabic spelling, misplaced hamza, misplaced vowel mark, watermark, logo, subtitles, captions, UI overlay, brand name, extra fingers, deformed hands, deformed paws, extra limbs, blurry, low resolution, noise, film grain, violence
