@@ -1,35 +1,36 @@
 =====================================================================
-HARF_ALEF_KIDS_3D — VIDEO 02 · SHOT 01 — ALEF_DAMMA_INTRO
-الحرف: أُ (الألف بالضمة)   |   المدة: 10 ثوانٍ (0:00-0:10 داخل مقطع مدته 30 ثانية)
+HARF_ALEF_KIDS_3D — VIDEO 03 · SHOT 02 — IWAZZA
+الحرف: إِ — إِوَزَّةٌ   |   المدة: 10 ثوانٍ (0:00-0:10 داخل مقطع مدته 30 ثانية)
 =====================================================================
 
 FRAMES
 ------
-Use the single provided reference image as the FIRST FRAME of this 10-second shot: VID02_SC01_ALEF_DAMMA_INTRO.png
+Use the single provided reference image as the FIRST FRAME of this 10-second shot: SCENES/SCENE_08/VID03_SC02_IWAZZA.png
+Matching prompt file name: PROMPTS/VID03_SC02_IWAZZA_PROMPT.txt
 Animate it into a 10-second 3D animated children's cartoon clip, 30 FPS, vertical 9:16 portrait, 1080x1920.
 Visual style (locked for the whole series): 3D animated children's cartoon, Pixar-style, soft rounded shapes, big expressive stylized eyes, smooth clean surfaces, warm friendly design, soft global illumination, cheerful bright saturated children's color palette, no photorealism.
-Scene environment (locked): a cheerful sunny sandy beach tidepool with sparkling turquoise shallow water, colorful seashells and a bright blue sky
-Subjects in frame (locked): On the left stands ZAID (the exact same adorable 4-year-old curly dark-brown-haired boy in a yellow t-shirt with sky-blue sleeve trim, blue denim bib overalls and red-and-white sneakers) looking warmly at the camera with a happy excited expression and pointing toward the center; beside his feet sits SIMSIM (the exact same cute chubby orange tabby kitten with huge green eyes and a blue bell collar) looking up curiously.
-Arabic 3D letter in scene (locked, 100% accurate, never alter it): Standing prominently in center-right on the warm sand at the water's edge is ONE giant glossy sky-blue-and-gold 3D toy Arabic letter block for «أُ»: a smooth tall blue vertical stem, a small blue Arabic hamza (ء) sitting ON TOP of the stem, and a small golden curly damma loop floating ABOVE the hamza with a clear gap.
+Scene environment (locked): the exact same sunny park duck pond with water lilies and green grass as the previous shot
+Subjects in frame (locked): Everything is preserved: Zaid on the left, Simsim the orange tabby kitten, and the giant glossy emerald-green-and-gold 3D letter block «إِ» in center-right. NEW: an adorable snowy-white 3D goose with a bright orange beak, big friendly eyes and webbed orange feet stands on the grass beside the pond.
+Arabic 3D letter in scene (locked, 100% accurate, never alter it): The giant emerald-green-and-gold 3D letter «إِ» stays exactly in place and identical: green vertical stem on top, green hamza underneath it, golden diagonal kasra slash underneath the hamza, nothing above the stem.
 
 CONTINUITY
 ----------
 Series heroes, identical in every shot of every episode: ZAID (4-year-old curly dark-brown-haired boy, yellow t-shirt with sky-blue sleeve trim, blue denim bib overalls, red-and-white sneakers) and SIMSIM (chubby orange tabby kitten, huge green eyes, blue collar with tiny golden bell).
-This is the opening shot of the episode: it establishes Zaid, Simsim and the giant 3D letter in this location.
+This shot directly continues shot 01 in the exact same location with the exact same characters, outfits and 3D letter; only a new friendly animal appears.
 Keep the exact same character designs, outfits, proportions, colors, the exact same environment, the exact same lighting direction and color palette as the reference frame for the entire shot.
 The giant 3D Arabic letter sculpture stays in the exact same position, same scale and same spelling from the first frame to the last frame of the shot.
 Absolutely no text, no words, no subtitles, no logos and no watermark are ever rendered inside the video frame.
 
 ACTION AND TIMING
 -----------------
-0.0-3.0s: Zaid waves then points excitedly at the giant blue 3D letter; Simsim lifts one paw toward it. 3.0-7.0s: Zaid rounds his lips and clearly teaches the sound «أُ»; the giant 3D letter bounces gently with a golden glow. 7.0-10.0s: Zaid and Simsim smile straight into the camera inviting the children to repeat «أُ» together.
+0.0-3.0s: the snowy-white goose steps out of the pond onto the grass beside the giant green 3D letter and flaps its wings happily. 3.0-7.0s: the goose gives two gentle happy honks; Zaid and Simsim wave cheerfully at the goose with big smiles. 7.0-10.0s: Zaid points at the goose then at the giant green 3D letter and teaches «إِوَزَّةٌ» to the camera.
 All motion is soft, bouncy, child-friendly and clearly readable; no fast erratic movement.
 
 DIALOGUE
 --------
-ZAID (warm, cheerful, slow, fully vocalized simple Standard Arabic): «أَهْلاً يَا شُطَّار! مَعَ الضَّمَّةِ نَضُمُّ شَفَتَيْنَا وَنَقُولُ: أُ! قُولُوا مَعِي: أُ — أُ!»
+ZAID (excited, clear, fully vocalized simple Standard Arabic): «إِ... إِوَزَّةٌ! انْظُرُوا إِلَى الْإِوَزَّةِ الْبَيْضَاءِ الْجَمِيلَةِ!»
 Speaking character: ZAID only. Simsim, the animals and the objects never speak (mouths stay closed).
-Optional: add a tiny cute "meow" from Simsim and a friendly children's group repeat of the letter sound «أُ» at the very end.
+Optional: add a tiny cute "meow" from Simsim and a friendly children's group repeat of the letter sound «إِ» at the very end.
 
 CAMERA
 ------
@@ -39,13 +40,13 @@ Warm direct child-friendly eye contact with the viewer is welcome and encouraged
 
 SOUND
 -----
-Cheerful light children's cartoon background music (soft marimba and bells). Gentle beach wave whoosh, happy seagulls far away, soft magical chime when the 3D letter glows. Zaid's friendly child voice only.
+Cheerful light children's cartoon background music continues seamlessly. Two soft cute cartoon goose honks, gentle wing flaps, pond water splash, happy child giggle, tiny magical chime from the glowing 3D letter.
 Clear, warm, close, child-friendly voice in fully vocalized simple Standard Arabic (عربية فصحى مبسطة مشكولة), perfectly intelligible for toddlers, mixed slightly above the music.
 No scary, aggressive, sad or loud sounds. No adult voices. No background chatter.
 
 END FRAME
 ---------
-Zaid and Simsim side by side smiling into the camera, Zaid's hand still pointing at the giant glowing blue 3D letter «أُ» in center-right, sunny tidepool unchanged behind them.
+The happy white goose standing on the grass beside the giant glowing green 3D letter «إِ», Zaid and Simsim waving with delighted smiles, sunny pond unchanged.
 Frozen final frame must stay perfectly clean and readable for a 1-tap loop into the next shot.
 
 NEGATIVE

@@ -5,7 +5,8 @@ HARF_ALEF_KIDS_3D — VIDEO 01 · SHOT 03 — ASAD
 
 FRAMES
 ------
-Use the single provided reference image as the FIRST FRAME of this 10-second shot: VID01_SC03_ASAD.png
+Use the single provided reference image as the FIRST FRAME of this 10-second shot: SCENES/SCENE_03/VID01_SC03_ASAD.png
+Matching prompt file name: PROMPTS/VID01_SC03_ASAD_PROMPT.txt
 Animate it into a 10-second 3D animated children's cartoon clip, 30 FPS, vertical 9:16 portrait, 1080x1920.
 Visual style (locked for the whole series): 3D animated children's cartoon, Pixar-style, soft rounded shapes, big expressive stylized eyes, smooth clean surfaces, warm friendly design, soft global illumination, cheerful bright saturated children's color palette, no photorealism.
 Scene environment (locked): the exact same bright sunny green garden meadow, wooden fence and blue sky as the previous shot

@@ -1,33 +1,34 @@
 =====================================================================
-HARF_ALEF_KIDS_3D — VIDEO 02 · SHOT 02 — UKHTUBUT
-الحرف: أُ — أُخْطُبُوطٌ   |   المدة: 10 ثوانٍ (0:00-0:10 داخل مقطع مدته 30 ثانية)
+HARF_ALEF_KIDS_3D — VIDEO 02 · SHOT 01 — ALEF_DAMMA_INTRO
+الحرف: أُ (الألف بالضمة)   |   المدة: 10 ثوانٍ (0:00-0:10 داخل مقطع مدته 30 ثانية)
 =====================================================================
 
 FRAMES
 ------
-Use the single provided reference image as the FIRST FRAME of this 10-second shot: VID02_SC02_UKHTUBUT.png
+Use the single provided reference image as the FIRST FRAME of this 10-second shot: SCENES/SCENE_04/VID02_SC01_ALEF_DAMMA_INTRO.png
+Matching prompt file name: PROMPTS/VID02_SC01_ALEF_DAMMA_INTRO_PROMPT.txt
 Animate it into a 10-second 3D animated children's cartoon clip, 30 FPS, vertical 9:16 portrait, 1080x1920.
 Visual style (locked for the whole series): 3D animated children's cartoon, Pixar-style, soft rounded shapes, big expressive stylized eyes, smooth clean surfaces, warm friendly design, soft global illumination, cheerful bright saturated children's color palette, no photorealism.
-Scene environment (locked): the exact same cheerful sunny sandy beach tidepool with turquoise water and seashells as the previous shot
-Subjects in frame (locked): Everything is preserved: Zaid on the left, Simsim the orange tabby kitten, and the giant glossy sky-blue-and-gold 3D letter block «أُ» in center-right. NEW: a super cute cheerful purple-magenta 3D baby octopus with a round head, big happy eyes and curly tentacles splashes in the shallow water.
-Arabic 3D letter in scene (locked, 100% accurate, never alter it): The giant sky-blue-and-gold 3D letter «أُ» stays exactly in place, perfectly right-reading and identical: blue vertical stem, blue hamza on top, golden damma loop above it.
+Scene environment (locked): a cheerful sunny sandy beach tidepool with sparkling turquoise shallow water, colorful seashells and a bright blue sky
+Subjects in frame (locked): On the left stands ZAID (the exact same adorable 4-year-old curly dark-brown-haired boy in a yellow t-shirt with sky-blue sleeve trim, blue denim bib overalls and red-and-white sneakers) looking warmly at the camera with a happy excited expression and pointing toward the center; beside his feet sits SIMSIM (the exact same cute chubby orange tabby kitten with huge green eyes and a blue bell collar) looking up curiously.
+Arabic 3D letter in scene (locked, 100% accurate, never alter it): Standing prominently in center-right on the warm sand at the water's edge is ONE giant glossy sky-blue-and-gold 3D toy Arabic letter block for «أُ»: a smooth tall blue vertical stem, a small blue Arabic hamza (ء) sitting ON TOP of the stem, and a small golden curly damma loop floating ABOVE the hamza with a clear gap.
 
 CONTINUITY
 ----------
 Series heroes, identical in every shot of every episode: ZAID (4-year-old curly dark-brown-haired boy, yellow t-shirt with sky-blue sleeve trim, blue denim bib overalls, red-and-white sneakers) and SIMSIM (chubby orange tabby kitten, huge green eyes, blue collar with tiny golden bell).
-This shot directly continues shot 01 in the exact same location with the exact same characters, outfits and 3D letter; only a new friendly animal appears.
+This is the opening shot of the episode: it establishes Zaid, Simsim and the giant 3D letter in this location.
 Keep the exact same character designs, outfits, proportions, colors, the exact same environment, the exact same lighting direction and color palette as the reference frame for the entire shot.
 The giant 3D Arabic letter sculpture stays in the exact same position, same scale and same spelling from the first frame to the last frame of the shot.
 Absolutely no text, no words, no subtitles, no logos and no watermark are ever rendered inside the video frame.
 
 ACTION AND TIMING
 -----------------
-0.0-3.0s: the friendly purple baby octopus rises from the shallow water and waves its curly tentacles. 3.0-7.0s: the octopus blows tiny shimmering bubbles that float up; Zaid laughs and points at it; Simsim bats playfully at a floating bubble. 7.0-10.0s: Zaid points at the octopus then at the giant blue 3D letter and teaches «أُخْطُبُوطٌ» to the camera.
+0.0-3.0s: Zaid waves then points excitedly at the giant blue 3D letter; Simsim lifts one paw toward it. 3.0-7.0s: Zaid rounds his lips and clearly teaches the sound «أُ»; the giant 3D letter bounces gently with a golden glow. 7.0-10.0s: Zaid and Simsim smile straight into the camera inviting the children to repeat «أُ» together.
 All motion is soft, bouncy, child-friendly and clearly readable; no fast erratic movement.
 
 DIALOGUE
 --------
-ZAID (excited, clear, fully vocalized simple Standard Arabic): «أُ... أُخْطُبُوطٌ! أُخْطُبُوطٌ مَرِحٌ يَلْعَبُ فِي الْمَاء!»
+ZAID (warm, cheerful, slow, fully vocalized simple Standard Arabic): «أَهْلاً يَا شُطَّار! مَعَ الضَّمَّةِ نَضُمُّ شَفَتَيْنَا وَنَقُولُ: أُ! قُولُوا مَعِي: أُ — أُ!»
 Speaking character: ZAID only. Simsim, the animals and the objects never speak (mouths stay closed).
 Optional: add a tiny cute "meow" from Simsim and a friendly children's group repeat of the letter sound «أُ» at the very end.
 
@@ -39,13 +40,13 @@ Warm direct child-friendly eye contact with the viewer is welcome and encouraged
 
 SOUND
 -----
-Cheerful light children's cartoon background music continues seamlessly. Soft water splashes, gentle bubble pops, happy child laughter, tiny magical chime from the glowing 3D letter, light seagulls.
+Cheerful light children's cartoon background music (soft marimba and bells). Gentle beach wave whoosh, happy seagulls far away, soft magical chime when the 3D letter glows. Zaid's friendly child voice only.
 Clear, warm, close, child-friendly voice in fully vocalized simple Standard Arabic (عربية فصحى مبسطة مشكولة), perfectly intelligible for toddlers, mixed slightly above the music.
 No scary, aggressive, sad or loud sounds. No adult voices. No background chatter.
 
 END FRAME
 ---------
-The smiling purple baby octopus in the shallow water beside the giant glowing blue 3D letter «أُ», Zaid laughing and pointing, Simsim batting a bubble, sunny beach unchanged.
+Zaid and Simsim side by side smiling into the camera, Zaid's hand still pointing at the giant glowing blue 3D letter «أُ» in center-right, sunny tidepool unchanged behind them.
 Frozen final frame must stay perfectly clean and readable for a 1-tap loop into the next shot.
 
 NEGATIVE

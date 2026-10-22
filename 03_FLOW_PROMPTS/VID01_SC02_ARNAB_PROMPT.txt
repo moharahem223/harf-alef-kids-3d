@@ -1,33 +1,34 @@
 =====================================================================
-HARF_ALEF_KIDS_3D — VIDEO 01 · SHOT 01 — ALEF_FATHA_INTRO
-الحرف: أَ (الألف بالفتحة)   |   المدة: 10 ثوانٍ (0:00-0:10 داخل مقطع مدته 30 ثانية)
+HARF_ALEF_KIDS_3D — VIDEO 01 · SHOT 02 — ARNAB
+الحرف: أَ — أَرْنَبٌ   |   المدة: 10 ثوانٍ (0:00-0:10 داخل مقطع مدته 30 ثانية)
 =====================================================================
 
 FRAMES
 ------
-Use the single provided reference image as the FIRST FRAME of this 10-second shot: VID01_SC01_ALEF_FATHA_INTRO.png
+Use the single provided reference image as the FIRST FRAME of this 10-second shot: SCENES/SCENE_02/VID01_SC02_ARNAB.png
+Matching prompt file name: PROMPTS/VID01_SC02_ARNAB_PROMPT.txt
 Animate it into a 10-second 3D animated children's cartoon clip, 30 FPS, vertical 9:16 portrait, 1080x1920.
 Visual style (locked for the whole series): 3D animated children's cartoon, Pixar-style, soft rounded shapes, big expressive stylized eyes, smooth clean surfaces, warm friendly design, soft global illumination, cheerful bright saturated children's color palette, no photorealism.
-Scene environment (locked): a bright sunny green garden meadow with colorful flowers, soft white clouds in a blue sky and a warm wooden fence in the soft-focus background
-Subjects in frame (locked): On the left stands ZAID (the exact adorable 4-year-old curly dark-brown-haired boy in a yellow t-shirt with sky-blue sleeve trim, blue denim bib overalls and red-and-white sneakers) smiling joyfully straight toward the camera while happily pointing with his right hand toward the center; right beside him sits SIMSIM (the exact cute chubby orange tabby kitten with huge green eyes and a blue collar with a tiny golden bell) smiling brightly.
-Arabic 3D letter in scene (locked, 100% accurate, never alter it): Standing prominently in center-right on the grass is ONE giant glossy red-and-gold 3D toy Arabic letter block for «أَ»: a smooth tall red vertical stem, a small red Arabic hamza (ء) sitting ON TOP of the stem, and a short yellow diagonal fatha slash floating ABOVE the hamza.
+Scene environment (locked): the exact same bright sunny green garden meadow, wooden fence and blue sky as the previous shot
+Subjects in frame (locked): Everything from the previous shot is perfectly preserved: Zaid on the left in his yellow t-shirt and denim overalls, Simsim the orange tabby kitten beside him, and the giant glossy red-and-gold 3D Arabic letter block «أَ» in center-right (identical stem, hamza and fatha slash). NEW: an adorable fluffy snow-white 3D baby bunny rabbit with long pink-lined ears and big sparkling eyes appears on the grass in front of the letter.
+Arabic 3D letter in scene (locked, 100% accurate, never alter it): The giant red-and-gold 3D letter «أَ» stays exactly in place, identical in shape, size and color: red vertical stem, red hamza on top, yellow diagonal fatha slash above it.
 
 CONTINUITY
 ----------
 Series heroes, identical in every shot of every episode: ZAID (4-year-old curly dark-brown-haired boy, yellow t-shirt with sky-blue sleeve trim, blue denim bib overalls, red-and-white sneakers) and SIMSIM (chubby orange tabby kitten, huge green eyes, blue collar with tiny golden bell).
-This is the opening shot of the episode: it establishes Zaid, Simsim and the giant 3D letter in this location.
+This shot directly continues shot 01 in the exact same location with the exact same characters, outfits and 3D letter; only a new friendly animal appears.
 Keep the exact same character designs, outfits, proportions, colors, the exact same environment, the exact same lighting direction and color palette as the reference frame for the entire shot.
 The giant 3D Arabic letter sculpture stays in the exact same position, same scale and same spelling from the first frame to the last frame of the shot.
 Absolutely no text, no words, no subtitles, no logos and no watermark are ever rendered inside the video frame.
 
 ACTION AND TIMING
 -----------------
-0.0-3.0s: Zaid waves then points joyfully at the giant red 3D letter; Simsim lifts one paw. 3.0-7.0s: Zaid opens his mouth wide and clearly teaches the sound «أَ», tapping his open hand; the giant 3D letter bounces gently and sparkles. 7.0-10.0s: Zaid and Simsim look straight at the camera smiling, inviting the children to repeat «أَ» together.
+0.0-3.0s: the fluffy white bunny hops happily onto the grass beside the giant 3D letter and wiggles its nose. 3.0-7.0s: the bunny makes two big joyful hops with a soft boing; Zaid claps both hands and laughs; Simsim tilts its head in delight. 7.0-10.0s: Zaid points at the bunny then at the giant red letter while teaching the word «أَرْنَبٌ» to the camera.
 All motion is soft, bouncy, child-friendly and clearly readable; no fast erratic movement.
 
 DIALOGUE
 --------
-ZAID (warm, cheerful, slow, fully vocalized simple Standard Arabic): «مَرْحَباً يَا أَصْدِقَاء! هٰذَا حَرْفُ الْأَلِفِ بِالْفَتْحَةِ... أَ! قُولُوا مَعِي: أَ — أَ!»
+ZAID (excited, clear, fully vocalized simple Standard Arabic): «أَ... أَرْنَبٌ! انْظُرُوا كَيْفَ يَقْفِزُ الْأَرْنَبُ اللَّطِيفُ!»
 Speaking character: ZAID only. Simsim, the animals and the objects never speak (mouths stay closed).
 Optional: add a tiny cute "meow" from Simsim and a friendly children's group repeat of the letter sound «أَ» at the very end.
 
@@ -39,13 +40,13 @@ Warm direct child-friendly eye contact with the viewer is welcome and encouraged
 
 SOUND
 -----
-Cheerful light children's cartoon background music (soft marimba and bells, gentle and happy, never sad). Soft magical sparkle chime when the giant 3D letter glows. Zaid's friendly child voice only; no other speaking character.
+Cheerful light children's cartoon background music continues seamlessly. Two soft cartoon boings on each bunny hop, happy child giggle from Zaid, gentle rabbit nose wiggle squeak, tiny sparkle chime from the glowing 3D letter.
 Clear, warm, close, child-friendly voice in fully vocalized simple Standard Arabic (عربية فصحى مبسطة مشكولة), perfectly intelligible for toddlers, mixed slightly above the music.
 No scary, aggressive, sad or loud sounds. No adult voices. No background chatter.
 
 END FRAME
 ---------
-Zaid and Simsim side by side smiling straight into the camera, right hand still pointing at the giant glowing red 3D letter «أَ» in center-right, sunny meadow and wooden fence unchanged behind them.
+The white bunny sitting happily on the grass beside the giant glowing red 3D letter «أَ», Zaid clapping with a big smile straight at the camera, Simsim watching the bunny with delight, meadow unchanged.
 Frozen final frame must stay perfectly clean and readable for a 1-tap loop into the next shot.
 
 NEGATIVE
